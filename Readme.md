@@ -1,4 +1,4 @@
-## A Simple React + Express Boilerplate
+## Developer Week ATX Hackathon - Team Orange Coat
 > Can run React and Express server in a single command using concurrently
 
 This is just a simple boilerplate to get React and Express working with each other
